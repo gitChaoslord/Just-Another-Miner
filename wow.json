@@ -1,0 +1,30 @@
+{
+	"planets": [
+		{
+			"name": "Planet 1",
+			"id": 1,
+			"resource": 1
+
+		},
+		{
+			"name": "Planet 2",
+			"id": 2,
+			"resource": null
+		}
+	],
+	"ores": [
+		{
+			"name": "Copper",
+			"value":"1"
+		},
+		{
+			"name": "tin",
+			"value":"2"
+		}
+
+	],
+	"storage":{
+		"currentMoney": 15555
+	}
+}
+	
