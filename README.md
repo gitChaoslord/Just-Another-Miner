@@ -9,3 +9,5 @@ In this project, you can
 2 - Transform said ores to Bars increasing their value by Buying and using Smelters  
 3 - Sell Ores/Bars to acquire currency  
 4 - Perform Research (right now using only currency) to have access to new planet's mines and better resource generation  
+
+![alt-text](https://github.com/gitChaoslord/Just-Another-Miner/blob/master/gamedemo.gif)
