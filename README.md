@@ -11,8 +11,5 @@ In this project, you can
 4 - Perform Research (right now using only currency) to have access to new planet's mines and better resource generation  
 
 <div align="center"> 
-  <img src="/gamedemo.gif?raw=true">
-</div>
-<div align="center"> 
   <img src="/gamedemo2.gif?raw=true" width="250px">
 </div>
