@@ -10,5 +10,6 @@ In this project, you can
 3 - Sell Ores/Bars to acquire currency  
 4 - Perform Research (right now using only currency) to have access to new planet's mines and better resource generation  
 
-![alt-text](https://github.com/gitChaoslord/Just-Another-Miner/blob/master/gamedemo.gif)
-<img src="/gamedemo.gif?raw=true" width="200px">
+<div align="center"> 
+  <img src="/gamedemo.gif?raw=true" width="200px">
+</div>
