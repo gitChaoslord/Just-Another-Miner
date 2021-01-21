@@ -13,3 +13,6 @@ In this project, you can
 <div align="center"> 
   <img src="/gamedemo.gif?raw=true">
 </div>
+<div align="center"> 
+  <img src="/gamedemo2.gif?raw=true" width="250px">
+</div>
